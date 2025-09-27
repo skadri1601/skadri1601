@@ -29,6 +29,3 @@ Software Engineer with 1+ year of internship experience and an M.S. in Computer 
 
 <a href="https://github.com/skadri1601" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skadri1601&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/skadri1601/Job_Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skadri1601&repo=Job_Tracker&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/skadri1601/cf_ai_travel_planner" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=skadri1601&repo=cf_ai_travel_planner&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
