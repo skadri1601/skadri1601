@@ -9,7 +9,7 @@ Software Engineer with around 3 year of experience and an M.S. in Computer Scien
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [My portfolio](http://saadkadri.dev)
 * ✉️  You can contact me at [er.saadk16@gmail.com](mailto:er.saadk16@gmail.com)
-* 🧠  I'm currently learning GenAI by Databricks
+* 🧠  I'm currently working to get my Associate Data Engineering Certification By Databricks
 * 👥  I'm looking to collaborate on Pretty much Anything
 
 <p align="left">
