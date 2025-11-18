@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software Engineer with 1+ year of internship experience and an M.S. in Computer Science from UT Arlington. Skilled in building scalable web applications and RESTful APIs using Python, Django, and FastAPI, with hands-on experience in React.js, PostgreSQL, and CI/CD automation. Experienced in integrating LLMs (OpenAI GPT, Hugging Face, CodeT5) into backend systems, optimizing data pipelines, and delivering secure, reliable solutions in Agile environments.
+Software Engineer with around 3 year of experience and an M.S. in Computer Science from UT Arlington. Skilled in building scalable web applications and RESTful APIs using Python, Django, and FastAPI, with hands-on experience in React.js, PostgreSQL, and CI/CD automation. Experienced in integrating LLMs (OpenAI GPT, Hugging Face, CodeT5) into backend systems, optimizing data pipelines, and delivering secure, reliable solutions in Agile environments.
 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [My portfolio](http://saadkadri.dev)
